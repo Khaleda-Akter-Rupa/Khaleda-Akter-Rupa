@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+<img align="right" alt="New Image" width="270" src="https://media.licdn.com/dms/image/v2/D4D12AQF9we_1kbJWGw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691476055198?e=2147483647&v=beta&t=_wD3YkvO81zNSW6pLRbKvwUzaMTc7tgNPpXArxgrbEE">
 
-- I am currently seeking new opportunities to apply my skills and contribute to innovative projects. I am eager to join a dynamic team where I can grow and make a meaningful impact on software quality and user experience.
+
+- 💪 I am actively seeking new opportunities to leverage my skills and contribute to innovative projects. My goal is to join a dynamic team where I can grow professionally while making a meaningful impact on software quality and user experience. Recently, I completed an internship at **Dhrubok InfoTech Services Ltd.**, where I gained valuable hands-on experience working on real-world projects.
 - 🌱 I’m currently learning **Automation testing frameworks, Appium, and Selenium.**
 - 💬 Ask me about **Software testing, Methodology, SDLC Automation testing frameworks, Manual Testing.**
 - 📝 I regularly write articles on [https://medium.com/@rupasheikh1997](https://medium.com/@rupasheikh1997)
